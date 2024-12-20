@@ -1,0 +1,14 @@
+{
+  "size": "Small",
+  "colour": "Black",
+  "volume": 2.5,
+  "condition": "Used",
+  "closed": true,
+  "contents": [
+    "lipstick",
+    "phone",
+    "wallet"
+  ]
+}
+
+
